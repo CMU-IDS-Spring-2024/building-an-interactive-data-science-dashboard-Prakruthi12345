@@ -14,3 +14,19 @@ Through a series of assignments, you will build out a dashboard to support the i
 ## Running the Streamlit app
 
 You can execute the Streamlit app by running `streamlit run County_Dashboard.py`
+
+## Questions 
+
+1. Did you notice any interesting patterns or trends in the dataset?
+
+   
+2. Was it possible to understand how the dataset was different in the earlier years versus the more recent years?
+   
+  1. If so, what were some differences?  
+  2. If not, how would you suggest changing the dashboard to make differences easier to find?
+
+
+3. Did you discover any filters that demonstrated big differences from the overall dataset among the demographics (such as age, race, or gender)?
+
+   
+4. Are there any other features you wish were present in your dashboard to either make discovery easier or to explore alternative aspects of the dataset?
