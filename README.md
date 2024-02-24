@@ -24,8 +24,8 @@ I noticed that the number of fatal overdoses increased steadily from 2006 to 201
 
 2. Was it possible to understand how the dataset was different in the earlier years versus the more recent years?
    
-  1. If so, what were some differences?  
-  2. If not, how would you suggest changing the dashboard to make differences easier to find?
+  - If so, what were some differences?  
+  - If not, how would you suggest changing the dashboard to make differences easier to find?
 
    Yes, I noticed that the number of fatal overdoses was quite low prior to around 2016 and spiked around that time, after which it decreased in more recent years, but is still higher than it was in the early 2000's.
 
