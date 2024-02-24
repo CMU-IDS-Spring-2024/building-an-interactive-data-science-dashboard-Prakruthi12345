@@ -53,7 +53,7 @@ else:
 st.subheader("Visualizations")
 
 #insert visualizations here
-hist_year = alt.Chart(df_year_drug).mark_bar().encode(x=alt.X('case_year:O', title="Year",bin=True) , y=alt.Y('count()', title="Count of Fatal Overdoses"))
+hist_year = alt.Chart(df_year_drug).mark_bar().encode(x=alt.X('case_year:O', title="Year",bin=False) , y=alt.Y('count()', title="Count of Fatal Overdoses"))
 
 
 st.altair_chart(hist_year, use_container_width=True)
