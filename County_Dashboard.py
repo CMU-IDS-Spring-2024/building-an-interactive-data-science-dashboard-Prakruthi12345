@@ -60,7 +60,7 @@ st.altair_chart(hist_year, use_container_width=True)
 
 hist_age = alt.Chart(df_year_drug, title="Age").mark_bar().encode(x=alt.X('count()', title="Count of Fatal Overdoses") , y=alt.Y('age', title="")).properties(height=400,width=200)
 
-bar_gender = alt.Chart(df_year_drug, title="Sex").mark_bar().encode(x=alt.X('count()', title="Count of Fatal Overdoses") , y=alt.Y('sex', title="")).properties(height=400,width=200)
+bar_gender = alt.Chart(df_year_drug, title="Gender").mark_bar().encode(x=alt.X('count()', title="Count of Fatal Overdoses") , y=alt.Y('sex', title="")).properties(height=400,width=200)
 
 bar_race = alt.Chart(df_year_drug, title="Race").mark_bar().encode(x=alt.X('count()', title="Count of Fatal Overdoses") , y=alt.Y('race', title="")).properties(height=400,width=200)
 
