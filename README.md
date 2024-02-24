@@ -27,12 +27,12 @@ I noticed that the number of fatal overdoses increased steadily from 2006 to 201
   - If so, what were some differences?  
   - If not, how would you suggest changing the dashboard to make differences easier to find?
 
-   Yes, I noticed that the number of fatal overdoses was quite low prior to around 2016 and spiked around that time, after which it decreased in more recent years, but is still higher than it was in the early 2000's.
+   Yes, I noticed that the number of fatal overdoses was quite low prior to around 2016 and spiked around that time, after which it decreased in more recent years, but is still higher than it was in the early 2000's. It has only significantly reduced in 2023.
 
 
 3. Did you discover any filters that demonstrated big differences from the overall dataset among the demographics (such as age, race, or gender)?
 
-Cocaine overdoses were very high in recent years compared to the early 2000's, being the highest ever from 2022 to 2024, and increasing steadily from 2018. Heroin overdoses were very high in the 25-30 age range compared to overall, where the highest overdoses were in the 30 to 50 age range. I also discovered that in more recent years, the age range of people with the highest count of overdoses is younger than it was earlier. For example, from 2007 to 2012, the age group of 45 to 55 had the highest count, as opposed to 2017 to 2023, which has 30 to 40 year olds having the highest number of fatal overdoses.
+Heroin overdoses were very high in the 25-30 age range compared to overall, where the highest overdoses were in the 30 to 50 age range. I also discovered that in more recent years, the age range of people with the highest count of overdoses is younger than it was earlier. For example, from 2007 to 2012, the age group of 45 to 55 had the highest count, as opposed to 2017 to 2023, which has 30 to 40 year olds having the highest number of fatal overdoses.
 
    
 4. Are there any other features you wish were present in your dashboard to either make discovery easier or to explore alternative aspects of the dataset?
