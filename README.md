@@ -17,6 +17,8 @@ You can execute the Streamlit app by running `streamlit run County_Dashboard.py`
 
 ## Questions 
 
+3a:
+
 1. Did you notice any interesting patterns or trends in the dataset?
 
 I noticed that the number of fatal overdoses increased steadily from 2006 to 2018 with a spike from 2016 to 2018 and a decrease in the number of fatal overdoses from 2018 to 2024, with a spike from 2020 to 2022. I noticed that the highest number of overdoses were in the 30 to 50 age range and that men and white people had higher counts of overdoses compared to their female and black counterparts.
@@ -38,3 +40,17 @@ Heroin overdoses were very high in the 25-30 age range compared to overall, wher
 4. Are there any other features you wish were present in your dashboard to either make discovery easier or to explore alternative aspects of the dataset?
 
 I would like to have explored the distribution of fatal overdoses with respect to zipcode as well, as this would allow us to identiy high-risk areas where we could potentially intervene and start programs to aid those who are addicted to deadly drugs.
+
+
+3b:
+
+1. Did you notice any interesting patterns or trends in the dataset?
+
+2. Was it possible to understand how the dataset was different in the earlier years versus the more recent years?
+   
+ a. If so, what were some differences?  
+
+ b. If not, how would you suggest changing the dashboard to make differences easier to find?
+
+4. Are there any other features you wish were present in your dashboard to either make discovery easier or to explore alternative aspects of the dataset?
+
