@@ -59,4 +59,4 @@ Like I mentioned previously, for nearly all of the drugs, there were much fewer 
 
 3. Are there any other features you wish were present in your dashboard to either make discovery easier or to explore alternative aspects of the dataset?
 
-I feel that perhaps the time of day at which the incident occured could have been explored. This would help us better understand whether there are certain times of the day when fatal accidental overdoses occur and if there are preventative measures that we as a society can put in place during those peak hours specifically.
+I feel that perhaps the time of day at which the incident occured could have been explored. This would help us better understand whether there are certain times of the day when fatal accidental overdoses occur more frequently and if there are preventative measures that we as a society can put in place during those peak hours specifically.
