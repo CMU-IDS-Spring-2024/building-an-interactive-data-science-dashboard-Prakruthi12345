@@ -46,11 +46,17 @@ I would like to have explored the distribution of fatal overdoses with respect t
 
 1. Did you notice any interesting patterns or trends in the dataset?
 
+I observed that for nearly all of the drugs, there were much fewer incidents prior to 2013 when compared to more recent years. Many drugs including Alcohol and Cocaine saw spikes around 2016 to 2017. Additionally, Fentanyl saw a significant increase in incidents from 2018 to 2023. 
+
 2. Was it possible to understand how the dataset was different in the earlier years versus the more recent years?
    
- a. If so, what were some differences?  
+ - If so, what were some differences?  
 
- b. If not, how would you suggest changing the dashboard to make differences easier to find?
+ - If not, how would you suggest changing the dashboard to make differences easier to find?
 
-4. Are there any other features you wish were present in your dashboard to either make discovery easier or to explore alternative aspects of the dataset?
+Like I mentioned previously, for nearly all of the drugs, there were much fewer incidents prior to 2013 when compared to more recent years. Additionally, I observed that from 2007 and 2012, the top drug was consistently cocaine. However, when the date/time range was extended until 2020, Alcohol became the top drug, and when extended until 2023, Fentanyl became the most prevalent drug in the incidents.
 
+
+3. Are there any other features you wish were present in your dashboard to either make discovery easier or to explore alternative aspects of the dataset?
+
+I feel that perhaps the time of day at which the incident occured could have been explored. This would help us better understand whether there are certain times of the day when fatal accidental overdoses occur and if there are preventative measures that we as a society can put in place during those peak hours specifically.
