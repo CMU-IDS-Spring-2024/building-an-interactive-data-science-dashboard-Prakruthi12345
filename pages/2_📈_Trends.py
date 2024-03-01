@@ -6,7 +6,7 @@ import altair as alt
 import warnings
 warnings.simplefilter(action='ignore', category=FutureWarning)
 
-df = pd.read_csv("Downloads/overdose_data_092223.csv")
+df = pd.read_csv("data/overdose_data_092223.csv")
 df.death_date_and_time = pd.to_datetime(df.death_date_and_time)
 
 st.title("Trends")
