@@ -56,6 +56,17 @@ I observed that for nearly all of the drugs, there were much fewer incidents pri
 
 Like I mentioned previously, for nearly all of the drugs, there were much fewer incidents prior to 2013 when compared to more recent years. Additionally, I observed that from 2007 and 2012, the top drug was consistently cocaine. However, when the date/time range was extended until 2020, Alcohol became the top drug, and when extended until 2023, Fentanyl became the most prevalent drug in the incidents.
 
+3c:
+
+1. Did you notice any interesting patterns or trends in the dataset?
+
+
+2. Was it possible to understand how the dataset was different in the earlier years versus the more recent years? 
+ a. If so, what were some differences?  
+ b. If not, how would you suggest changing the dashboard to make differences easier to find?
+
+3. Are there any other features you wish were present in your dashboard to either make discovery easier or to explore alternative aspects of the dataset?
+
 
 3. Are there any other features you wish were present in your dashboard to either make discovery easier or to explore alternative aspects of the dataset?
 
