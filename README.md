@@ -56,18 +56,25 @@ I observed that for nearly all of the drugs, there were much fewer incidents pri
 
 Like I mentioned previously, for nearly all of the drugs, there were much fewer incidents prior to 2013 when compared to more recent years. Additionally, I observed that from 2007 and 2012, the top drug was consistently cocaine. However, when the date/time range was extended until 2020, Alcohol became the top drug, and when extended until 2023, Fentanyl became the most prevalent drug in the incidents.
 
+3. Are there any other features you wish were present in your dashboard to either make discovery easier or to explore alternative aspects of the dataset?
+
+I feel that perhaps the time of day at which the incident occured could have been explored. This would help us better understand whether there are certain times of the day when fatal accidental overdoses occur more frequently and if there are preventative measures that we as a society can put in place during those peak hours specifically.
+
+
 3c:
 
 1. Did you notice any interesting patterns or trends in the dataset?
 
+I observed that the number of incidents in each location was in general much lower in the years prior to 2013, when compared to the more recent years. Additionally, when considering all the years, only around 10 locations had a number of incidents more than 150, with a majority of the locations having a number of incidents less than 100.
 
 2. Was it possible to understand how the dataset was different in the earlier years versus the more recent years? 
  a. If so, what were some differences?  
  b. If not, how would you suggest changing the dashboard to make differences easier to find?
 
+Yes, the number of incidents in each location was in general much lower in the years prior to 2013, when compared to the more recent years. The areas surrounding Pittsburgh in particular had a much higher incident rate in recent years.
+
 3. Are there any other features you wish were present in your dashboard to either make discovery easier or to explore alternative aspects of the dataset?
 
+I wish I could also explore how the specific time of day varies affects the incident count. As I mentioned earlier, we could have an additional filter and chart for time of day to better understand whether there are certain times of the day when fatal accidental overdoses occur more frequently.
 
-3. Are there any other features you wish were present in your dashboard to either make discovery easier or to explore alternative aspects of the dataset?
 
-I feel that perhaps the time of day at which the incident occured could have been explored. This would help us better understand whether there are certain times of the day when fatal accidental overdoses occur more frequently and if there are preventative measures that we as a society can put in place during those peak hours specifically.
